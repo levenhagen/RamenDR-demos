@@ -7,5 +7,5 @@ spec:
   source:
     registry:
       # Replace with URL of a Windows container disk.
-      url: "docker:quay.io/aclewett/demo:latest"
+      url: "docker://quay.io/aclewett/demo:win2k22-large-2"
       pullMethod: node
