@@ -3,7 +3,7 @@
 apiVersion: kubevirt.io/v1
 kind: VirtualMachine
 metadata:
-  name: fedora
+  name: fedora-gitops
 spec:
   running: true
   template:
